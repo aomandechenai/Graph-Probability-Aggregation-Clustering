@@ -3,7 +3,8 @@
 This is the code for the paper "Graph Probability Aggregation Clustering". \
 GPAC introduces an objective function for cluster-wise clustering and incorporates a consistency constraint for point-wise clustering. 
 
-![Logo](fig_1.pdf)
+[PDF]([https://user-images.githubusercontent.com/xxxxxx/example.pdf](https://github.com/aomandechenai/Graph-Probability-Aggregation-Clustering/blob/main/fig_1.pdf))
+
 
 ## Dependency
 python--3.7.16\
